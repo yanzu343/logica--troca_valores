@@ -1,7 +1,7 @@
 programa
 {
 	
-inteiro x, y, aux
+	inteiro x, y, aux
 	funcao inicio()
 	{
 		escreva("digite um valor para X: ")
