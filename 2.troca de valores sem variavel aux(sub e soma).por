@@ -1,6 +1,7 @@
 programa
 {
-	inteiro a, b
+	
+	inteiro a, b
 	funcao inicio()
 	{
 		escreva("digite um valor para A: ")
@@ -9,13 +10,14 @@ programa
 		escreva("digite um valor para B: ")
 		leia(b)
 		
-		a = a + b
+		
+		a = a + b
 
 		b = a - b
 
 		a = a - b
 
-		escreva("\napós a troca: ")
+		escreva("\n após a troca: ")
 
 		escreva("\n valor de A: ",a)
 
